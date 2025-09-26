@@ -41,6 +41,6 @@ I organize and participate in cybersecurity competitions, leading educational in
 
 - 🏆 **CTF Organizer** - Design and host CTF competitions for university cybersecurity club
 - 🎯 **Active Competitor** - Regular participant in various CTF competitions with focus on web security, mobile, IoT and SCADA
-- 📚 **Educator** - Create detailed writeups and challenges across multiple categories including web, crypto, and forensics
+- 📚 **Contributor** - Create detailed writeups and challenges across multiple categories including web, crypto, and forensics
 - 🏛️ **Academics** - Conducted workshops for over 250 engineering students at department level for Faculty of Engineering and Technology, GLS University
 
