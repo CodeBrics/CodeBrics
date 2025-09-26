@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jay
 
-**Security Researcher | Computer Science Student**
+**Security Researcher | Computer Science Engineering Student**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shah~jay/)
 [![CVE](https://img.shields.io/badge/CVE-Contributor-red?style=flat-square)](https://www.cve.org/CVERecord?id=CVE-2025-7435)
