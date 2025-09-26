@@ -15,7 +15,7 @@
 
 - 🔍 Discovered and reported XSS which allowed a normal user to become an admin by sending a crafted payload to the administrator
 - 📋 Active contributor to MITRE CVE database with coordinated disclosure through VulDB
-- 🛡️ The CVE Repository is here: [CVE 2025-7435](https://github.com/CodeBrics/lhc-php-resque-xss-exploit)
+- 🛡️ The CVE Repository is here: [CVE 2025-7435](https://github.com/CodeBrics/lhc-php-resque-exploit)
 
 
 ---
