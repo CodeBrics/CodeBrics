@@ -38,8 +38,8 @@ I actively contribute to the cybersecurity community through open source project
   - Recognized by Pandit Deendayal Energy University (formerly Pandit Deendayal Petroleum University) Gandhinagar at Breach 2025
   
 ### CTF Writeups 
-- 📝 **[Pentathon 2025 Writeup](https://github.com/yourusername/pentathon-2025-writeup)** - Comprehensive analysis and solutions for Pentathon 2025 vulnerable machines (VirtualBox Machines)
-- 📝 **[Pentathon 2024 Writeup](https://github.com/yourusername/pentathon-2024-writeup)** - Detailed documentation of Pentathon 2024 CTF solutions
+- 📝 **[Pentathon 2025 Writeup](https://github.com/CodeBrics/Pentathon2025)** - Comprehensive analysis and solutions for Pentathon 2025 vulnerable machines (VirtualBox Machines)
+- 📝 **[Pentathon 2024 Writeup](https://github.com/CodeBrics/Pentathon2024)** - Detailed documentation of Pentathon 2024 CTF solutions
 - ---
 
 ## 🚩 Capture The Flag (CTF) & Competitions
