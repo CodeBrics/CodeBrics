@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shah~jay/)
 [![CVE](https://img.shields.io/badge/CVE-Contributor-red?style=flat-square)](https://www.cve.org/CVERecord?id=CVE-2025-7435)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat-square&logo=google-chrome)](https://codebrics.com/)
 
 
 ---
